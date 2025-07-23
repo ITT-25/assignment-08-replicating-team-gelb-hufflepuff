@@ -2,7 +2,7 @@
 
 Team Hufflepuff (David Ring & Marc Flöter), Universität Regensburg, Interaktionstechniken und -technologien (SoSe2025)
 
-![User Interface der Gesture Mouse](figures.png) 
+![User Interface der Gesture Mouse](figures/openposition.png) 
 
 
 
