@@ -1,10 +1,6 @@
-# Gesture Mouse – Markerbasierte Maussteuerung per Webcam  
+# 👆 Gesture Mouse – Markerbasierte Maussteuerung per Webcam  
 
 Team Hufflepuff (David Ring & Marc Flöter), Universität Regensburg, Interaktionstechniken und -technologien (SoSe2025)
-
-<video width="500" controls>
-  <source src="Gesture Mouse Demo Video.mp4" type="video/mp4">
-</video>
 
 <img src="figures/openposition.png" alt="User Interface der Gesture Mouse" width="500">
 
