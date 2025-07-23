@@ -2,9 +2,7 @@
 
 Team Hufflepuff (David Ring & Marc Flöter), Universität Regensburg, Interaktionstechniken und -technologien (SoSe2025)
 
-![User Interface der Gesture Mouse](figures/openposition.png) 
-
-
+<img src="figures/openposition.png" alt="User Interface der Gesture Mouse" width="500">
 
 ---
 
@@ -55,7 +53,11 @@ Per Commandline Argument können folgende Einstellungen beim Start festgelegt we
 python gesture_mouse.py -v 0 -s 0
 ```
 
+<img src="figures/startscreen.png" alt="Startbildschirm" width="300">
+
 Beim Programmstart wird der Nutzer zunächst Aufgefordert, die Farbe der zu erkennenden Marker zu kalibrieren. Sobald der Nutzer `k` drückt, muss ein Marker einige Sekunden ruhig im Zentrum des Kamerabildes gehalten werden. Die erkannte Farbe wird als Zusatzinformation in einer Bildschirmecke angezeigt. Nun kann der Nutzer die Steuerung seines Desktop-Mauszeigers per Finger-Gestiken beginnen.
+
+<img src="figures/calibrating.png" alt="Kalibrierung" width="300">
 
 ---
 
@@ -73,6 +75,10 @@ Wird ein Marker erkannt, erscheint um ihn in blau seine Bounding-Box (Anzeige ei
 | **Pinch halten (5 s)** | Doppel-Linksklick                 |
 | **1 Marker sichtbar**  | Rechtsklick                 |
 | **3 Marker, vertikale Bewegung** | Scrollen       |
+
+
+<img src="figures/linksklick.png" alt="Linksklick durch Pinch-Geste" width="300">
+<img src="figures/scroll.png" alt="Scrollen durch 3-Finger-Geste" width="300">
 
 #### Weitere Steuerung
 
