@@ -4,7 +4,6 @@ Team Hufflepuff (David Ring & Marc Flöter), Universität Regensburg, Interaktio
 
 <video width="500" controls>
   <source src="Gesture Mouse Demo Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 <img src="figures/openposition.png" alt="User Interface der Gesture Mouse" width="500">
