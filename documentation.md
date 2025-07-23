@@ -77,7 +77,8 @@ Wird ein Marker erkannt, erscheint um ihn in blau seine Bounding-Box (Anzeige ei
 | **3 Marker, vertikale Bewegung** | Scrollen       |
 
 
-<img src="figures/linksklick.png" alt="Linksklick durch Pinch-Geste" width="300">
+<img src="figures/linksklick.png" alt="Linksklick durch Pinch-Geste (kurz halten für Doppelklick)" width="300">
+<img src="figures/rechtsklick.png" alt="Rechtsklick durch 1 Finger Geste / Full Pinch" width="300">
 <img src="figures/scroll.png" alt="Scrollen durch 3-Finger-Geste" width="300">
 
 #### Weitere Steuerung
